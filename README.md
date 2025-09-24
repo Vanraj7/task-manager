@@ -1,6 +1,6 @@
 # Task Manager
 
-Backend + Frontend project built for **Backend Developer (Intern) Assignment**.  
+Backend + Frontend project.  
 Implements secure REST API with authentication, role-based access, CRUD operations, and a simple frontend UI for testing.
 
 ---
