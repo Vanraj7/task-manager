@@ -5,7 +5,7 @@ Built with Node.js, Express, MySQL, and React (Vite).
 ---
 
 ## 📌 Features
-### 🔐 Authentication & Authorization
+## 🔐 Authentication & Authorization
 
 - User registration & login with JWT authentication
 
@@ -13,7 +13,7 @@ Built with Node.js, Express, MySQL, and React (Vite).
 
 - Role-based access control (user vs admin)
 
-### 📝 Tasks Module
+## 📝 Tasks Module
 
 - Create, read, update, and delete (CRUD) tasks
 
@@ -21,7 +21,7 @@ Built with Node.js, Express, MySQL, and React (Vite).
 
 - Admin can view all tasks
 
-### ⚙ Backend
+## ⚙ Backend
 
 - REST API with Express.js
 
@@ -31,7 +31,7 @@ Built with Node.js, Express, MySQL, and React (Vite).
 
 - API documentation with Swagger (/api-docs)
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 - Built with React (Vite)
 
@@ -43,7 +43,7 @@ Built with Node.js, Express, MySQL, and React (Vite).
 
 - Error/success feedback
 
-### 🔒 Security
+## 🔒 Security
 
 - JWT token handling in localStorage
 
@@ -51,7 +51,7 @@ Built with Node.js, Express, MySQL, and React (Vite).
 
 - Password hashing with bcrypt
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Backend**: Node.js, Express.js, Sequelize, MySQL, JWT, Swagger  
 **Frontend**: React (Vite), Axios, React Router
