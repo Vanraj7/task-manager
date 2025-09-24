@@ -1,4 +1,4 @@
-# Primetrade Task Manager
+# Task Manager
 
 Backend + Frontend project built for **Backend Developer (Intern) Assignment**.  
 Implements secure REST API with authentication, role-based access, CRUD operations, and a simple frontend UI for testing.
