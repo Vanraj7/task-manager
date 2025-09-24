@@ -1,26 +1,61 @@
 # Task Manager
 
-Backend + Frontend project.  
-Implements secure REST API with authentication, role-based access, CRUD operations, and a simple frontend UI for testing.
-
+A full-stack Task Manager application with secure authentication, role-based access, CRUD operations, and a simple React frontend for demonstration.
+Built with Node.js, Express, MySQL, and React (Vite).
 ---
 
-## 🚀 Tech Stack
+## 📌 Features
+### 🔐 Authentication & Authorization
 
-### Backend
-- Node.js + Express
-- MySQL (via Sequelize ORM)
-- JWT Authentication
-- Bcrypt (password hashing)
-- Swagger (API Documentation)
-- Express Validator (input validation)
-- CORS enabled
+- User registration & login with JWT authentication
 
-### Frontend
-- React (Vite)
-- Axios (API calls)
-- React Router DOM (routing)
-- LocalStorage (JWT storage)
+- Password hashing with bcrypt
+
+- Role-based access control (user vs admin)
+
+### 📝 Tasks Module
+
+- Create, read, update, and delete (CRUD) tasks
+
+- Users see their own tasks
+
+- Admin can view all tasks
+
+### ⚙ Backend
+
+- REST API with Express.js
+
+- Database schema using MySQL + Sequelize
+
+- Input validation with express-validator
+
+- API documentation with Swagger (/api-docs)
+
+### 🎨 Frontend
+
+- Built with React (Vite)
+
+- Register & Login pages
+
+- Protected Dashboard with JWT token storage
+
+- CRUD UI for tasks
+
+- Error/success feedback
+
+### 🔒 Security
+
+- JWT token handling in localStorage
+
+- Input validation & sanitization
+
+- Password hashing with bcrypt
+
+### 🛠️ Tech Stack
+
+**Backend**: Node.js, Express.js, Sequelize, MySQL, JWT, Swagger  
+**Frontend**: React (Vite), Axios, React Router
+Database: MySQL
 
 ---
 
