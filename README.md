@@ -84,7 +84,6 @@ JWT_SECRET=supersecretkey
 Run backend:
 
 ```bash
-Copy code
 npm run dev
 ```
 📌 API will be available at:
